@@ -1,1 +1,1 @@
-# gcp-resource-tagging-terraform
+# GCP Resource tagging using Terraform
