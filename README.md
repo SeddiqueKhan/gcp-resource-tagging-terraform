@@ -17,7 +17,6 @@ This repository provides examples and modules for tagging/labeling Google Cloud 
   - [Compute Instance Module](#compute-instance-module)
   - [Storage Bucket Module](#storage-bucket-module)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
